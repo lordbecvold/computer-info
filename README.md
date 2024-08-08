@@ -1,4 +1,5 @@
 # Java Info app
+Get HW/SW info
 
 ## Dependencies
 This project requires Java 17.
